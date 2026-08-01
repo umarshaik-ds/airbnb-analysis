@@ -1,13 +1,13 @@
 # Airbnb-analysis
 # 🏠 Global Airbnb Performance Dashboard | Power BI
 
-## 📌Project Overview
+### 📌Project Overview
 
 The Global Airbnb Performance Dashboard is an interactive Power BI project designed to analyze Airbnb listings across multiple cities. The dashboard transforms raw data into meaningful business insights by visualizing listing performance, pricing trends, market share, customer ratings, and review metrics.
 
 This project demonstrates the complete Power BI workflow—from data transformation and modeling to DAX calculations and interactive dashboard development.
 
- ## Business Problem
+ ### Business Problem
 
 Airbnb hosts and business stakeholders need a centralized dashboard to monitor listing performance across different cities and property types.
 
@@ -18,7 +18,7 @@ What is the average price for each accommodation type?
 How are Superhosts distributed across cities?
 Which locations receive the highest customer ratings?
 How has Airbnb's growth evolved over time?
-📊 ##Dashboard Features
+### 📊 Dashboard Features
 📌 KPI Cards
 Total Listings
 Total Cities
@@ -50,14 +50,14 @@ Bangkok
 Cape Town
 Hong Kong
 
-#### The dashboard also compares:
+##### The dashboard also compares:
 
 Superhost Listings
 Non-Superhost Listings
 Cumulative Percentage
 💰 Price Analysis
 
-## Average price comparison across accommodation types:
+### Average price comparison across accommodation types:
 
 🏨 Hotel Room
 🏠 Entire Place
@@ -65,7 +65,7 @@ Cumulative Percentage
 👥 Shared Room
 ⭐ Customer Review Analysis
 
-## Evaluate customer satisfaction using:
+### Evaluate customer satisfaction using:
 
 Cleanliness
 Communication
@@ -87,7 +87,7 @@ Data Modeling
 Bookmarks
 Interactive Navigation
 Data Visualization
-## 📚 Skills Demonstrated
+### 📚 Skills Demonstrated
 Data Cleaning
 Data Transformation
 Data Modeling
@@ -96,7 +96,7 @@ Interactive Dashboard Design
 KPI Development
 Business Intelligence Reporting
 Data Storytelling
-## Dashboard Preview
+### Dashboard Preview
 Page 1 – Executive Overview
 KPI Cards
 Listing Trends
@@ -114,3 +114,25 @@ Hotel Rooms have the highest average price compared to other property types.
 Customer ratings remain consistently high across most cities.
 Superhost distribution varies significantly between cities.
 The dashboard highlights Airbnb's market evolution and the impact of COVID-19 on listing activity.
+### 📈 Future Improvements
+Revenue Analysis
+Occupancy Rate Dashboard
+Seasonal Trend Analysis
+Booking Forecasting
+Customer Segmentation
+Geographic Map Visualizations
+Drill-through Pages
+Row-Level Security (RLS)
+🤝 Feedback
+
+Constructive feedback is always welcome. If you have suggestions for improving the dashboard or visualization design, feel free to open an issue or connect with me on LinkedIn.
+
+⭐ Support
+
+If you found this project helpful or interesting:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share your feedback
